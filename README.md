@@ -42,6 +42,4 @@ Run the application:
 python3 blingenerator.py
 ```
 
-## License
 
-MIT License
