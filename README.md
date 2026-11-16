@@ -8,7 +8,11 @@ A simple Python app that generates random Russian blini recipes.
 
 Watch BlinGenerator in action:
 
-[Watch the demo](YOUR_VIDEO_LINK_HERE)
+
+
+https://github.com/user-attachments/assets/7be60eb9-11ba-40b2-8723-ffb989e8a7e9
+
+
 
 ## Features
 
